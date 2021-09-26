@@ -1,0 +1,7 @@
+¿Cuál es la moneda de Colombia? 
+A. Peso 
+B. Bolivar
+C. Real
+D. Sol
+A. Peso 
+El peso colombiano.
